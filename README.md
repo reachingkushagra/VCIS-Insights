@@ -1,6 +1,6 @@
 # VCIS INTERNSHIP DATASET ANALYSIS
 ## Introduction
-This project involves the analysis of the VCIS GD Schedules Dataset with the objective of identifying key insights related to candidate selection and applicant distribution. Specifically, the analysis focuses on:
+This project involves the analysis of the VCIS GD Schedules 2024 Dataset with the objective of identifying key insights related to candidate selection and applicant distribution. Specifically, the analysis focuses on:
 * Top Colleges and Courses: Determining which college or course has the maximum number of selected candidates.
 * College-wise Course Distribution: Analyzing the distribution of courses across colleges to identify those with the highest number of applicants. 
 
